@@ -21,3 +21,6 @@
 
 ## 13th October
 -30 minute meeting with advisor
+
+## 17th October
+-5 hours (following pytorch tutorial with standard dataset, Downloading and attempting to format dataset into single jsonl files from single many json files)
