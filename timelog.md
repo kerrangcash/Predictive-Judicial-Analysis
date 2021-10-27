@@ -25,6 +25,8 @@
 ## 17th October
 -5 hours (following pytorch tutorial with standard dataset, Downloading and attempting to format dataset into single jsonl files from single many json files)
 
+# Week 3
+
 ## 20th October
 -2 hours (reading torchText and pytorch documentation on creating custom datasets)
 
@@ -33,6 +35,8 @@
 
 ## 24th October
 -2.5 hours (tokenizing the data, and using the data to create tensors)
+
+# Week 4
 
 ## 25th October
 -0.5 hours (meeting with supervisor to discuss implimentations of models like BERT)
