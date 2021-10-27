@@ -24,3 +24,20 @@
 
 ## 17th October
 -5 hours (following pytorch tutorial with standard dataset, Downloading and attempting to format dataset into single jsonl files from single many json files)
+
+## 20th October
+-2 hours (reading torchText and pytorch documentation on creating custom datasets)
+
+## 21st October
+-3.5 hours (implimenting a custom dataset in torchtext, mapping data to a torchtext data class)
+
+## 24th October
+-2.5 hours (tokenizing the data, and using the data to create tensors)
+
+## 25th October
+-0.5 hours (meeting with supervisor to discuss implimentations of models like BERT)
+-1 hour (reading on models)
+
+## 27th October
+-1 hour (reading on biLTSM models on reccomendation of supervisor)
+-2 hours (beginning to impliment biLTSM model)
