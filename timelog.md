@@ -45,3 +45,40 @@
 ## 27th October
 -1 hour (reading on biLTSM models on reccomendation of supervisor)
 -2 hours (beginning to impliment biLTSM model)
+
+## 28th October
+-3 hours (Completing pyotrch implimentation of model class)
+
+## 31st October
+-3 hours (implimenting training loop)
+-2 hours (diagnosing error with batching)
+
+# Week 5
+
+## 3rd November
+-2 hours (attempting to fix batching)
+-1 hours (creating new smaller datasets for testing)
+
+## 4th November
+-2 hours (found command that was able to load data)
+-2 hours (diagnosing bathcing error and realising it was due to torchtext legacy features)
+
+## 7th November
+-2 hours (implimenting new dataloading method with pandas)
+-1 hour (understanding pytorch custom data classes to replace legacy torchtext data splits)
+-1 hour (implimenting and debugging pytorch custom dataclass)
+-2 hours (formatting new data with tokenising and labelling)
+
+# Week 6 
+
+## 10th November
+-2 hours (reading torchtext docs to understand legacy to current version migration)
+-1.5 hours (beginning to migrate previosuly implimented features from legacy to current version)
+
+## 11th November
+-1.5 hours(Attempting to find information on using GloVe vectors in new version)
+-1 hour (diagnosing an encountered error with batching)
+
+## 14th November
+-1 hour (raeding up on why batching is used in NLP)
+-2 hours (updating batching sequence without using GloVe vectors)
